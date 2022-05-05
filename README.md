@@ -7,12 +7,14 @@ A easy Pytorch data augmentation library, supports data augmentation of images, 
 
 ## Features
 * Currently supported data augmentation operations (目前支持的数据增强操作):
-  * resize
   * crop
+  * resize
   * HSV
   * filp
   * normalize
 
 ## Requirements
+
 - pytorch 1.11.0
+
 
